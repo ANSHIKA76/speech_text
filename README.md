@@ -24,9 +24,19 @@ A **simple and elegant React application** that converts your speech to text in 
 ---
 
 <h2>🚀 Demo</h2>
+<div style="text-align: center;">
+  <img
+    src="./public/preview.png"
+    alt="Speech to Text React App Output"
+    width="600"
+    style="border: 3px solid #000; border-radius: 8px;"
+  />
+</div>
 
-<img src="C:\Users\HP\Desktop\preview.png" alt="Speech to Text React App Output" width="600" />
-<p><em>Screenshot of the app running and converting speech to text in real-time.</em></p>
+
+
+
+
 
 
 ## 🚀 Getting Started
