@@ -23,6 +23,12 @@ A **simple and elegant React application** that converts your speech to text in 
 
 ---
 
+<h2>🚀 Demo</h2>
+
+<img src="C:\Users\HP\Desktop\preview.png" alt="Speech to Text React App Output" width="600" />
+<p><em>Screenshot of the app running and converting speech to text in real-time.</em></p>
+
+
 ## 🚀 Getting Started
 
 ### Prerequisites
@@ -64,18 +70,3 @@ Utilizes React hooks (useState, useEffect, useRef) to manage speech recognition 
 Separates interim and final transcripts for smooth user feedback.
 
 Automatically restarts speech recognition on unexpected stop events.
-
-📁 Project Structure
-pgsql
-Copy
-Edit
-speech-to-text-react/
-├── public/
-│   └── index.html
-├── src/
-│   ├── index.js
-│   ├── SpeechToText.js
-│   └── index.css
-├── package.json
-└── README.md
-
